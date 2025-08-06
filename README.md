@@ -147,7 +147,7 @@ Linear Regression: R² = 0.65, RMSE = 0.42
 
 ```
 playstore-analytics/
-├── playstore_analytics.ipynb    # Main Jupyter notebook (download & run)
+├── Googleplaystore_analytics.ipynb    # Main Jupyter notebook (download & run)
 ├── README.md                   # Documentation
 ├── Dataset/
 │   ├── googleplaystore.csv         # Main dataset
