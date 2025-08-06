@@ -33,8 +33,6 @@ jupyter notebook
 # Run all cells to launch the Gradio interface
 ```
 
-**Access**: The Gradio interface will automatically open at `http://127.0.0.1:7860`
-
 ## 📊 Features
 
 ### 🔧 Data Processing
@@ -74,7 +72,7 @@ jupyter notebook
 **Columns**: App, Translated_Review, Sentiment, Sentiment_Polarity
 
 **Data Sources**: 
--(Google Play Store Apps)[https://www.kaggle.com/datasets/lava18/google-play-store-apps]
+-[Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
 
 
 ## 🛠️ Technology Stack
@@ -154,11 +152,11 @@ playstore-analytics/
 ├── Dataset/
 │   ├── googleplaystore.csv         # Main dataset
 │   └── user_reviews.csv           # Reviews dataset (optional)
-└── outputs/
-    └── screenshots/               # Interface screenshots
+└── screenshots/              # Interface screenshots
 ```
 
 ## 📞 Contact
 
-**GitHub**: [https://github.com/ARI-create193/Google-Play-Store-Analysis-Prediction-Dashboard]
+**GitHub**: https://github.com/ARI-create193/Google-Play-Store-Analysis-Prediction-Dashboard
+
 **Email**: aryankaminwar@gmail.com
